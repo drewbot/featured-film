@@ -39,7 +39,7 @@ h2 {
 }
 
 p {
-  font-size: 1.1em;
+  font-size: 1.05em;
   line-height: 1.7em;
 }
 
@@ -164,7 +164,7 @@ header {
 
     p {
       width: 100%;
-      font-size: 0.8em;
+      font-size: 0.7em;
       float: right;
       text-align: right;
       line-height: 0.5em;
@@ -197,6 +197,10 @@ header {
   h2 {
     top: 266px;
   }
+
+  p {
+    font-size: 0.95em;
+  }
   
 }
 
@@ -221,7 +225,7 @@ header {
   }
 
   p {
-    font-size: 1em;
+    font-size: 0.85em;
   }
   
 }
@@ -252,11 +256,11 @@ header {
   }
   
   p {
-    font-size: 0.9em;
+    font-size: 0.75em;
   }
 
   .poster-container p {
-    font-size: 0.7em;
+    font-size: 0.6em;
   }
 }
 

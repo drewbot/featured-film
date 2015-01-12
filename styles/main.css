@@ -29,7 +29,7 @@ h2 {
   top: 300px; }
 
 p {
-  font-size: 1.1em;
+  font-size: 1.05em;
   line-height: 1.7em; }
 
 header {
@@ -155,7 +155,7 @@ header {
     float: right; }
   .poster-container p {
     width: 100%;
-    font-size: 0.8em;
+    font-size: 0.7em;
     float: right;
     text-align: right;
     line-height: 0.5em; }
@@ -179,7 +179,10 @@ header {
     height: 144px; }
 
   h2 {
-    top: 266px; } }
+    top: 266px; }
+
+  p {
+    font-size: 0.95em; } }
 @media screen and (max-width: 720px) {
   .leaderboard {
     height: 300px; }
@@ -196,7 +199,7 @@ header {
     top: 230px; }
 
   p {
-    font-size: 1em; } }
+    font-size: 0.85em; } }
 @media screen and (max-width: 500px) {
   .leaderboard {
     height: 270px; }
@@ -217,10 +220,10 @@ header {
     font-size: 1.4em; }
 
   p {
-    font-size: 0.9em; }
+    font-size: 0.75em; }
 
   .poster-container p {
-    font-size: 0.7em; } }
+    font-size: 0.6em; } }
 @media screen and (max-width: 400px) {
   .leaderboard {
     height: 260px; }
